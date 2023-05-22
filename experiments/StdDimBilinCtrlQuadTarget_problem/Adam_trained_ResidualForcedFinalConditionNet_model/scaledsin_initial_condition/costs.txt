@@ -1,0 +1,18 @@
+------------------------------------
+ Costs of NN Solution
+------------------------------------
+running state cost:   1.319509
+running control cost: 1.033280
+total running cost:   2.352789
+final cost:           0.121259
+total cost:           2.474048
+
+------------------------------------
+ Costs of BVP Solution
+------------------------------------
+running state cost:   1.371903
+running control cost: 0.197756
+total running cost:   1.569660
+final cost:           0.103636
+total cost:           1.673295
+

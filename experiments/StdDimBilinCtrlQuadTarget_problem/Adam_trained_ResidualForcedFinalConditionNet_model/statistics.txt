@@ -1,0 +1,26 @@
+------------------------------------
+ Training Statistics
+------------------------------------
+total training time:           155.322290
+total number of training data: 7000
+
+data generation occured at epochs 13, 20, 21, 23, 24, 28, 29 with ratio 1.249275, 1.249667, 1.250000, 1.249907, 1.249859, 1.249944, 1.249911
+total epochs: 32, optimal epoch: 31
+
+training errors of optimal model:
+value RMAE: 0.525489, grad RML1: 0.214133, ctrl RMAE: 0.702745
+validation errors of optimal model:
+value RMAE: 0.336241, grad RML1: 0.291249, ctrl RMAE: 1.239748
+
+------------------------------------
+ Test Statistics
+------------------------------------
+test errors of optimal model:
+value RMAE: 0.446220, grad RML1: 0.314978, ctrl RMAE: 0.871354
+
+training data set:
+number of trajectories: 34, number of data points: 7000
+validation data set:
+number of trajectories: 5, number of data points: 1031
+test data set:
+number of trajectories: 10, number of data points: 1867
