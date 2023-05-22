@@ -1,0 +1,36 @@
+------------------------------------
+ Costs of NN Solution
+------------------------------------
+running state cost:   0.854521
+running control cost: 0.483584
+total running cost:   1.338105
+final cost:           0.102108
+total cost:           1.440213
+
+------------------------------------
+ Costs of LQR Solution
+------------------------------------
+running state cost:   0.809792
+running control cost: 0.526132
+total running cost:   1.335924
+final cost:           0.106209
+total cost:           1.442133
+
+------------------------------------
+ Costs of BVP Solution
+------------------------------------
+running state cost:   0.828120
+running control cost: 0.508594
+total running cost:   1.336714
+final cost:           0.099604
+total cost:           1.436318
+
+------------------------------------
+ Costs of unctrl Solution
+------------------------------------
+running state cost:   4.855360
+running control cost: 0.000000
+total running cost:   4.855360
+final cost:           4.043967
+total cost:           8.899328
+
