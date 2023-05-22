@@ -1,8 +1,0 @@
-------------------------------------
- ResidualForcedFinalConditionNet Model
-------------------------------------
-depth:                  4
-width:                  100
-activation:             Softplus(beta=1, threshold=20)
-architecture:           None
-forced final condition: yes
