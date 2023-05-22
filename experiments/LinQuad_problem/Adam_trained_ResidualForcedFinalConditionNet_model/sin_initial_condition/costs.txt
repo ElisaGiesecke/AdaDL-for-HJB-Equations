@@ -1,0 +1,63 @@
+------------------------------------
+ Costs of NN Solution
+------------------------------------
+running state cost:   1.220049
+running control cost: 0.260080
+total running cost:   1.480129
+final cost:           0.088217
+total cost:           1.568345
+
+------------------------------------
+ Costs of LQR Solution
+------------------------------------
+running state cost:   1.176589
+running control cost: 0.304709
+total running cost:   1.481297
+final cost:           0.073078
+total cost:           1.554376
+
+------------------------------------
+ Costs of BVP Solution
+------------------------------------
+running state cost:   1.176122
+running control cost: 0.304461
+total running cost:   1.480583
+final cost:           0.073078
+total cost:           1.553662
+
+------------------------------------
+ Costs of unctrl Solution
+------------------------------------
+running state cost:   2.986376
+running control cost: 0.000000
+total running cost:   2.986376
+final cost:           1.067056
+total cost:           4.053432
+
+------------------------------------
+ Costs of noisy NN Solution
+------------------------------------
+running state cost:   1.145394
+running control cost: 0.277913
+total running cost:   1.423306
+final cost:           0.133843
+total cost:           1.557149
+
+------------------------------------
+ Costs of noisy LQR Solution
+------------------------------------
+running state cost:   1.236656
+running control cost: 0.279465
+total running cost:   1.516122
+final cost:           0.130732
+total cost:           1.646854
+
+------------------------------------
+ Costs of noisy BVP Solution
+------------------------------------
+running state cost:   3.717244
+running control cost: 0.304406
+total running cost:   4.021650
+final cost:           2.186989
+total cost:           6.208639
+
