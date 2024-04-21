@@ -1,4 +1,5 @@
 # Solving high-dimensional Hamilton-Jacobi-Bellman Equations for Optimal Feedback Control via Adaptive Deep Learning Approach
+This repository contains the code complementing my master thesis, available [here](https://github.com/ElisaGiesecke/AdaDL-for-HJB-Equations/blob/main/master%20thesis.pdf) with its defense [here](https://github.com/ElisaGiesecke/AdaDL-for-HJB-Equations/blob/main/master%20defense.pdf).
 
 To demonstrate how Hamilton-Jacobi-Bellman Equations can be solved numerically via an adaptive deep learning approach, we provide a framework for computing optimal closed-loop controllers of reaction-diffusion systems. Specifically, we address an ODE-constrained optimal control problem arising from a spatial finite difference discretization, with the objective of steering the state towards a desired target. At the core of our algorithm lies a neural network modeling the value function and its gradient on which the the feedback control law is based. The network training relies on adaptively generated data obtained through the the open-loop solutions of corresponding boundary value problems.
 
